@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/siniekoo19/siniekoo19/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sinchana Chatterjee</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 
