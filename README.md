@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/siniekoo19](https://github.com/siniekoo19)
 
-- 💬 Ask me about **Machine Learning**
-
 - 📫 How to reach me **csinchana19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
