@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinchana Chatterjee</h1>
-<h3 align="center">A passionate Data Science Engineer from India</h3>
+<h3 align="center">I am a Data Science student from India with a strong passion for Web Development, Machine Learning, and Data Science. </h3>
 
 <img align="right" alt="coding girl" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
