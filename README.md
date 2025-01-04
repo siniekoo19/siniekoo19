@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siniekoo19&label=Profile%20views&color=0e75b6&style=flat" alt="siniekoo19" /> </p>
 
-- 🌱 I’m currently learning **AWS, Web Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/siniekoo19](https://github.com/siniekoo19)
 
 - 📫 How to reach me **csinchana19@gmail.com**
